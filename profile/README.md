@@ -1,4 +1,4 @@
-![LydoxMC](images/banner.png)
+![LydoxMC](../images/banner.png)
 # What is LydoxMC
 LydoxMC ist ein deutsches Minecraft-Minigames-Netzwerk mit Spielen wie BedWars, MLGRush, FFA und vielem mehr. Diese GitHub-Organisation wird hauptsächlich für unser Sprachsystem genutzt, wo du Pull Requests erstellen kannst, um uns bei der Übersetzung unseres Netzwerks in andere Sprachen zu unterstützen
 
